@@ -15,4 +15,7 @@ div div {
 
 #big_div {
 	border: 5px solid black;
+	display:flex;
+	justify-content: center;
+	align-content: center;
 }
